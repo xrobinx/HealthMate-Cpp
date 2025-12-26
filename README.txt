@@ -1,4 +1,4 @@
-
+Name : Robinjeet Singh
 1. Program Overview
 ----------------------------------------
 HealthMate is a console-based application that manages users, diet plans,
@@ -52,3 +52,4 @@ Follow the on-screen menu to:
 5. Enjoy
 ---------------------------------
 Thank you for reading :)
+
